@@ -1,0 +1,13 @@
+
+prog{
+ Uint abdou,z,e,r ;
+ define Ufloat f = 1.2;
+ Ufloat qq;
+ define Uint ss=2;
+	{
+		qq = 12;
+
+
+	}
+}
+

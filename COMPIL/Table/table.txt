@@ -1,0 +1,20 @@
+-------------+-----------+-----------+
+ entite      |type       |nature     | 
+-------------+-----------+-----------+
+ prog        |programme  |programme  |
+ abggg       |Uint       |Variable   |
+ dff         |Uint       |Variable   |
+ egf_ff      |Uint       |Variable   |
+ vbb1r       |Uint       |Variable   |
+ f           |Ufloat     |Constante  |
+ dd          |Ufloat     |Variable   |
+ hh          |Ufloat     |Variable   |
+ x           |Uint       |Variable   |
+ ss          |Uint       |Constante  |
+ qq          |inconnu    |inconnue   |
+ z           |inconnu    |inconnue   |
+ gh          |inconnu    |inconnue   |
+ hj          |inconnu    |inconnue   |
+ m           |inconnu    |inconnue   |
+ fdf         |inconnu    |inconnue   |
+ i           |inconnu    |inconnue   |
